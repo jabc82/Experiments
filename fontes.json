@@ -16,11 +16,27 @@
         "longitude": -8.6110
     },
     {
-        "title": "Corte de Trânsito na Zona Norte de Porto",
-        "description": "O trânsito será afetado no norte da cidade devido ao fechamento temporário de algumas vias.",
-        "url": "https://www.portocanal.pt/corte-norte",
+        "title": "Notícia sobre eventos culturais no Porto Canal",
+        "description": "O Porto Canal anuncia uma nova programação para a temporada de outono com eventos culturais ao vivo.",
+        "url": "https://www.portocanal.pt/eventos-culturais-outono",
         "source": "Porto Canal",
         "latitude": 41.1625,
         "longitude": -8.5890
+    },
+    {
+        "title": "Transporte público será interrompido em Torres Novas",
+        "description": "O Município de Torres Novas anuncia interrupções nos serviços de transporte público devido a uma greve programada.",
+        "url": "https://www.cm-torresnovas.pt/greve-transportes-publicos",
+        "source": "Município de Torres Novas",
+        "latitude": 39.4539,
+        "longitude": -8.2954
+    },
+    {
+        "title": "Novos projetos de infraestrutura no Porto Ponto",
+        "description": "O Porto Ponto destaca os novos projetos de infraestrutura planejados para o centro da cidade, com foco na mobilidade urbana.",
+        "url": "https://www.portoponto.pt/projetos-infraestrutura",
+        "source": "Porto Ponto",
+        "latitude": 41.1454,
+        "longitude": -8.6123
     }
 ]
