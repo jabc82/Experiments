@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Novas medidas de segurança no Metro do Porto",
+        "url": "https://www.metrodoporto.pt/noticias/12345",
+        "source": "Metro do Porto",
+        "latitude": 41.15227,
+        "longitude": -8.60943,
+        "description": "O Metro do Porto anunciou novas medidas de segurança para seus passageiros."
+    },
+    {
+        "title": "Inauguração de nova praça em Torres Novas",
+        "url": "https://www.facebook.com/municipio.torresnovas",
+        "source": "Município de Torres Novas",
+        "latitude": 39.48176,
+        "longitude": -8.53984,
+        "description": "A nova praça em Torres Novas foi inaugurada e já está aberta ao público."
+    },
+    {
+        "title": "Jornal de Notícias cobre evento cultural",
+        "url": "https://www.jn.pt/local/porto/evento-cultural-56789.html",
+        "source": "Jornal de Notícias",
+        "latitude": 41.14961,
+        "longitude": -8.61099,
+        "description": "Evento cultural reúne artistas locais em um show especial no Porto."
+    },
+    {
+        "title": "Porto Ponto anuncia novo festival de música",
+        "url": "https://www.facebook.com/portoponto",
+        "source": "Porto Ponto",
+        "latitude": 41.15794,
+        "longitude": -8.62911,
+        "description": "Um novo festival de música será realizado em várias localizações do Porto."
+    }
+]
