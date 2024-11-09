@@ -1,42 +1,34 @@
 [
-    {
-        "title": "Corte de Trânsito na Avenida dos Aliados",
-        "description": "A partir de amanhã, a Avenida dos Aliados terá cortes de trânsito devido à construção de novas infraestruturas.",
-        "url": "https://www.jornaldenoticias.pt/corte-avaliado-aliados",
-        "source": "Jornal de Notícias",
-        "latitude": 41.1496,
-        "longitude": -8.6109
-    },
-    {
-        "title": "Obras causam corte de trânsito em Porto",
-        "description": "Por conta das obras de ampliação do metro, a Rua do Bonfim será interditada por 24 horas.",
-        "url": "https://www.metroporto.pt/corte-bonfim",
-        "source": "Metro do Porto",
-        "latitude": 41.1481,
-        "longitude": -8.6110
-    },
-    {
-        "title": "Notícia sobre eventos culturais no Porto Canal",
-        "description": "O Porto Canal anuncia uma nova programação para a temporada de outono com eventos culturais ao vivo.",
-        "url": "https://www.portocanal.pt/eventos-culturais-outono",
-        "source": "Porto Canal",
-        "latitude": 41.1625,
-        "longitude": -8.5890
-    },
-    {
-        "title": "Transporte público será interrompido em Torres Novas",
-        "description": "O Município de Torres Novas anuncia interrupções nos serviços de transporte público devido a uma greve programada.",
-        "url": "https://www.cm-torresnovas.pt/greve-transportes-publicos",
-        "source": "Município de Torres Novas",
-        "latitude": 39.4539,
-        "longitude": -8.2954
-    },
-    {
-        "title": "Novos projetos de infraestrutura no Porto Ponto",
-        "description": "O Porto Ponto destaca os novos projetos de infraestrutura planejados para o centro da cidade, com foco na mobilidade urbana.",
-        "url": "https://www.portoponto.pt/projetos-infraestrutura",
-        "source": "Porto Ponto",
-        "latitude": 41.1454,
-        "longitude": -8.6123
-    }
+  {
+    "title": "Porto Notícias",
+    "description": "Notícias sobre a cidade do Porto.",
+    "url": "https://www.facebook.com/Porto.NoticiasdoPorto",
+    "latitude": 41.1579,
+    "longitude": -8.6292,
+    "source": "Porto Notícias"
+  },
+  {
+    "title": "Município de Torres Novas",
+    "description": "Notícias e informações sobre o Município de Torres Novas.",
+    "url": "https://www.facebook.com/municipiodetorresnovas",
+    "latitude": 39.4541,
+    "longitude": -8.3545,
+    "source": "Município de Torres Novas"
+  },
+  {
+    "title": "Porto Canal",
+    "description": "Notícias e programação do Porto Canal.",
+    "url": "https://www.facebook.com/portocanal",
+    "latitude": 41.1631,
+    "longitude": -8.5973,
+    "source": "Porto Canal"
+  },
+  {
+    "title": "Município de Vila Real",
+    "description": "Informações e atualizações sobre o Município de Vila Real.",
+    "url": "https://www.facebook.com/municipiovilareal",
+    "latitude": 41.3003,
+    "longitude": -7.7463,
+    "source": "Município de Vila Real"
+  }
 ]
